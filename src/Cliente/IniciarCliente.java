@@ -1,11 +1,11 @@
 package Cliente;
 
-/*
+
+
+//teste
 
 
 
-
-*/
 
 import Servidor.InterfaceProduto;
 import java.rmi.Naming;
